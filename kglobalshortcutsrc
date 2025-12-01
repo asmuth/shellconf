@@ -280,9 +280,12 @@ _launch=none
 [services][org.kde.krunner.desktop]
 _launch=Meta+Space
 
+[services][org.kde.kscreen.desktop]
+ShowOSD=Display
+
 [services][org.kde.plasma.emojier.desktop]
 _launch=none
 
 [services][org.kde.spectacle.desktop]
 RecordRegion=none
-RectangularRegionScreenShot=Ctrl+P
+RectangularRegionScreenShot=none
